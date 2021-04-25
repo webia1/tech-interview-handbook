@@ -8,14 +8,19 @@ module.exports = {
   organizationName: 'yangshun',
   projectName: 'tech-interview-handbook',
   themeConfig: {
+    prism: {
+      theme: require('prism-react-renderer/themes/github'),
+      darkTheme: require('prism-react-renderer/themes/dracula'),
+    },
     navbar: {
       title: 'Tech Interview Handbook',
       logo: {
         alt: 'Tech Interview Handbook Logo',
         src: 'img/logo.svg',
       },
-      links: [
+      items: [
         {to: 'introduction', label: 'Getting Started', position: 'right'},
+        {to: 'blog', label: 'Blog', position: 'right'},
         {
           href: 'https://github.com/yangshun/tech-interview-handbook',
           label: 'GitHub',
@@ -43,6 +48,10 @@ module.exports = {
           path: '../contents',
           routeBasePath: '',
           sidebarPath: require.resolve('./sidebars.js'),
+          editUrl:
+            'https://github.com/yangshun/tech-interview-handbook/edit/master/contents/',
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

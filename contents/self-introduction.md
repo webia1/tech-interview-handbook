@@ -9,7 +9,7 @@ You can rephrase the question like this:
 
 > "Tell me about your journey into tech. How did you get interested in coding, and why was web development (or replace with other job-specific skills) a good fit for you? How is that applicable to our role or company goals?"
 
-## The Elevator Pitch
+## The elevator pitch
 
 An "elevator pitch" originates from a journalist trying to pitch an idea to an editor. The only time to catch the editor was in the elevator and she had only around 30 seconds to do so. The key elements of elevator pitches include:
 
@@ -36,7 +36,7 @@ Tell them some highlights from your favorite/most impressive projects and includ
 
 ### Why do _they_ want _you_?
 
-Tell the interviewer why you would make a good hire. Is your experience relevant to the company? Have you used a similar tech stack as the company or built relevant products? What unique talent(s) do you have that makes gives them confidence about your ability to contribute to the company?
+Tell the interviewer why you would make a good hire. Is your experience relevant to the company? Have you used a similar tech stack as the company or built relevant products? What unique talent(s) do you have that may give them confidence about your ability to contribute to the company?
 
 ### Practice!
 
@@ -52,14 +52,14 @@ Prepare a self introduction that follows the following outline (inspired by "Cra
 
 1. A sentence about your current or most recent role.
 1. A few sentences about your (academic) background. What did you focus on?
-1. Some sentences about your professional experience after school/university. Where did you work? What projects did you deal with? What where typical challenges and tasks? Which technologies did you use?
+1. Some sentences about your professional experience after school/university. Where did you work? What projects did you deal with? What were the typical challenges and tasks? Which technologies did you use?
 1. Finish with a statement saying why you are seeking a new job opportunity and why you are interested in the role you applied for.
 
 ## Examples
 
 ### Example 1: Front End Engineer at Facebook
 
-#### Self Introduction
+#### Self introduction
 
 > "Hi I’m Yangshun and I graduated from National University of Singapore in 2015 with a degree in Computer Science. My interests are in Front End Engineering and I love to create beautiful performant products with delightful user experiences.
 >
@@ -78,13 +78,13 @@ Prepare a self introduction that follows the following outline (inspired by "Cra
 
 ### Example 2: Front End Engineer at Lyft
 
-#### Self Introduction
+#### Self introduction
 
 > "Hi I’m Yangshun and I graduated from National University of Singapore in 2015 with a degree in Computer Science. My interests are in Front End Engineering and I love to create beautiful performant products with delightful user experiences.
 >
 > I previously worked at Grab where I led the Grab for Work project. Grab for Work was a service for companies to make corporate transportation expenses convenient. Companies can create employee groups, set ride policies and share corporate payment methods with their employees. I built the project with another engineer over the period of 3 months on a React/Redux and Golang stack."
 >
-> I'm interested in the Front End Engineer role at Lyft because I like working in this ridesharing space and creating products for users to improve their
+> I'm interested in the Front End Engineer role at Lyft because I like working in this ridesharing space and creating products for users to improve their life.
 
 #### Breakdown
 

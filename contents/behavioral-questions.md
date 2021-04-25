@@ -24,6 +24,15 @@ title: Common Questions
 - What is something that you had to push for in your previous projects?
 - What is the most constructive feedback you have received in your career?
 - What is something you had to persevere at for multiple months?
+- Tell me about a time you met a tight deadline.
+- If this were your first annual review with our company, what would I be telling you right now?
+- Time management has become a necessary factor in productivity. Give an example of a time-management skill you've learned and applied at work.
+- Tell me about a problem you've had getting along with a work associate.
+- What aspects of your work are most often criticized?
+- How have you handled criticism of your work?
+- What strengths do you think are most important for *your job position*?
+- What words would your colleagues use to describe you?
+- What would you hope to achieve in the first six months after being hired?
 
 ### Airbnb
 
@@ -68,6 +77,17 @@ Source: [Glassdoor](https://www.glassdoor.com/Interview/Amazon-Interview-Questio
 - What is the most exceedingly bad misstep you've made at any point?
 - Describe what Human Resources means to you.
 - How would you improve Amazon's website?
+
+### Bytedance
+
+Source: [Glassdoor]
+
+- What do you know about product manager and why?
+- Take me through a product you launched from start to end
+- What's the biggest achievement in your previous projects
+- Why do you want to work at ByteDance?
+- Tell me about a recent failure and what you learned from the experience
+- What excites you about the role?
 
 ### Dropbox
 

@@ -30,7 +30,7 @@ export default [
     quote: (
       <>
         Most of us are familiar with having the prospect of having to grind tons
-        of Leetcode problems before the interview, but I really wanted a sense
+        of LeetCode problems before the interview, but I really wanted a sense
         of direction, an outline of sorts to prepare efficiently; I wanted to
         pick questions that covered all the important concepts one can be tested
         on. The Tech Interview Handbook provides just that; the Algorithms
@@ -66,20 +66,6 @@ export default [
         appreciate Yangshun and other contributors for putting out such quality
         content for the community. I'd wholeheartedly recommend this handbook to
         anyone!
-      </>
-    ),
-  },
-  {
-    name: 'Yangshun Tay',
-    title: 'Front End Engineer, Facebook',
-    thumbnail: 'https://avatars1.githubusercontent.com/u/1315101?s=460&v=4',
-    quote: (
-      <>
-        I always thought that getting a job at Facebook was a dream beyond my
-        reach. However, with help from this handbook, determination and
-        preparation, my job hunt went beyond my expectations and was pretty
-        successful, landing me offers with Facebook, Google, Airbnb, Dropbox,
-        and Lyft. Huge thanks to the authors for sharing their knowledge!
       </>
     ),
   },

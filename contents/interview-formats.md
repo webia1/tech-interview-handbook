@@ -5,18 +5,18 @@ title: Interview Formats
 
 Interviews are a multi-stage process and each stage can consist of vastly different formats.
 
-## Various Formats
+## Various formats
 
-### Pop Quiz
+### Pop quiz
 
 Pop quizzes are meant to be a quick and dirty way of weeding out extremely weak (or even non-technical) candidates. They are structured questions and have clear-cut answers which makes them possible to be administered by recruiters/non-technical folks. It is not a very common interview format these days.
 
 Examples:
 
-- What is 4 & 5? Answer: 4
+- What is 4 & 5 (in binary)? Answer: 4
 - What is the time complexity of bubble sort? Answer: O(n^2)
 
-### Take Home Assignment
+### Take home assignment
 
 There has been numerous debates on whether asking algorithm questions are a good way of assessing individual abilities as they aren't exactly the most relevant skills needed for a job. Take home assignment is a format designed to address the shortcomings of the algorithm interview by getting candidates to work on larger projects which allow them to demonstrate software design skills.
 
@@ -27,17 +27,17 @@ Examples
 - Build a flights listing app
 - Build a snake game
 
-### Phone Interview
+### Phone interview
 
-Phone interview are the most common format and every candidate will face this at least once while interviewing. You will be asked to speak with an interviewer either over a phone call or VoIP (Skype/Hangout). A question will be given to you and you will work on that question using an online collaborative editor (CoderPad/CodePen/Google Docs).
+Phone interviews are the most common format and every candidate will face this at least once while interviewing. You will be asked to speak with an interviewer either over a phone call or VoIP (Skype/Hangout). A question will be given to you and you will work on that question using an online collaborative editor (CoderPad/CodePen/Google Docs).
 
-You are usually not allowed to execute the code even if the editor supports execution. So don't rely on that for verifying the correctness of your solution. Formats would differ slightly depending on the roles you are applying to. Many companies like to use [CoderPad](https://coderpad.io/) for collaborative code editing. CoderPad supports running of the program, so you is possible that you are asked to fix your code such that it can be run. For front end interviews, many companies like to use [CodePen](https://codepen.io/), and it will be worth your time to familiarize yourself with the user interfaces of such web-based coding environments.
+You are usually not allowed to execute the code even if the editor supports execution. So don't rely on that for verifying the correctness of your solution. Formats would differ slightly depending on the roles you are applying to. Many companies like to use [CoderPad](https://coderpad.io/) for collaborative code editing. CoderPad supports running of the program, so it is possible that you will be asked to fix your code such that it can be run. For front end interviews, many companies like to use [CodePen](https://codepen.io/), and it will be worth your time to familiarize yourself with the user interfaces of such web-based coding environments.
 
 ### Onsite
 
 If you have made it to this stage, congratulations! This is usually the final stage before an offer decision. Candidates who made it to the onsite stage will be required to have an in-person interview at the office. If you are an overseas candidate, companies might even fly you in and pay for your accommodations!
 
-The onsite stage usually consists of multiple rounds (coding, system design, behavioral) and is expected to last for a few hours. Since you are onsite, it is possible that you will be asked to do a whiteboard exercise with an interviewer, usually either solving an algorithm question or doing a system design question. It is also possible that you have to bring you own laptops and work on a project/solve a coding problem on the spot.
+The onsite stage usually consists of multiple rounds (coding, system design, behavioral) and is expected to last for a few hours. Since you are onsite, it is possible that you will be asked to do a whiteboard exercise with an interviewer, usually either solving an algorithm question or doing a system design question. It is also possible that you have to bring your own laptops and work on a project/solve a coding problem on the spot.
 
 For onsite interviews at smaller (non-public) companies, most will allow (and prefer) that you use your own laptop. Hence it is important that you prepare your development environment in advance.
 
@@ -160,3 +160,4 @@ If the company provides lunch, you might also have a lunch session with an emplo
 - Tips:
   - No front end questions were asked
   - 1 of the interviewers is an Engineering Manager
+  
